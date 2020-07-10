@@ -6,6 +6,7 @@
         <li><a href="https://zip.app">ZIP Messenger</a></li>
         <li>Personal website</li>
         <li><a href="https://github.com/howardchung/watchparty">watchparty.me</a></li>
+        <li><a href="https://github.com/odota/web">OpenDota Web</a></li>
       </ul>
     </td>
     <td valign="top" width="33.333%">
