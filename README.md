@@ -9,6 +9,14 @@ Welcome to my GitHub profile. Here you'll find some of my open source projects a
 * [Watchparty](https://github.com/howardchung/watchparty) - Open Source Contributor
 * My personal website which will pop up here soon
 
+## 👑 Stuff I built
+
+* [react-devto](https://github.com/bdbch/react-devto) - Dev.to hooks for React.js
+* [react-localstorage](https://github.com/bdbch/react-localstorage) - Localstorage hooks with reactivity
+* [react-github](https://github.com/bdbch/react-github) - Github hooks for React.js
+* [Vivalidator](https://github.com/bdbch/vivalidator) - Simple PHP validation library with Recaptcha 2 support
+* [cordlr-cli (archived)](https://github.com/bdbch/cordlr-cli) - A Discord bot framework for bot developers (currently inactive)
+
 ## 🎨 What tools I use
 
 * **Development**
