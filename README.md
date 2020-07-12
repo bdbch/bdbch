@@ -17,8 +17,10 @@ Welcome to my GitHub profile. Here you'll find some of my open source projects a
 * [Vivalidator](https://github.com/bdbch/vivalidator) - Simple PHP validation library with Recaptcha 2 support
 * [cordlr-cli (archived)](https://github.com/bdbch/cordlr-cli) - A Discord bot framework for bot developers (currently inactive)
 
-## 🎨 What tools I use
+<details>
+ <summary>What tools I use</summary>
 
+## 🎨 What tools I use
 * **Development**
   * VSCode
   * Windows Terminal
@@ -35,9 +37,12 @@ Welcome to my GitHub profile. Here you'll find some of my open source projects a
   * Gmail
   * Chrome
   * Microsoft Edge
+</details>
+
+<details>
+ <summary>What languages and libraries I work with</summary>
 
 ## 🕶 What languages and libraries I work with
-
 * **Javascript**
   * React
   * React Native
@@ -47,6 +52,7 @@ Welcome to my GitHub profile. Here you'll find some of my open source projects a
   * Node.js
 * **C#**
   * Unity
+</details>
   
 ## 📝 Contact
 
