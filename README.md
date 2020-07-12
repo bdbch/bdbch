@@ -43,3 +43,9 @@ Welcome to my GitHub profile. Here you'll find some of my open source projects a
 ## 📝 Contact
 
 You can contact me on Twitter at [bdbch](https://twitter.com/bdbch).
+
+---
+
+**Thanks for checking me out! 🤙**
+
+![You're cool](https://media.giphy.com/media/1QffP8E6nk4gKYZO5S/giphy.gif)
