@@ -64,7 +64,7 @@ Welcome to my GitHub profile. Here you'll find some of my open source projects a
   
 ## 📝 Contact
 
-You can contact me on Twitter at [bdbch](https://twitter.com/bdbch).
+You can contact me on Twitter at [@idocodeandstuff](https://twitter.com/idocodeandstuff).
 
 ---
 
