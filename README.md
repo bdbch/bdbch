@@ -2,31 +2,16 @@
 
 Welcome to my GitHub profile. Here you'll find some of my open source projects and my contributions to other projects. I mostly use GitHub for my main job commits but open source contributions will also pop up here and there.
 
-<details>
- <summary>What I'm currently working on</summary>
-
 ## 🔨 What I'm currently working on
-
-* [ZIP Messenger](https://zip.app/) - Lead Frontend JavaScript development for Web and Native
 * [Open Dota](https://github.com/odota/web) - Open Source Contributor
 * [Watchparty](https://github.com/howardchung/watchparty) - Open Source Contributor
-* My personal website which will pop up here soon
-</details>
 
-<details>
- <summary>Stuff I built</summary>
-
-## 👑 Stuff I built
-
+## Things I built
 * [react-devto](https://github.com/bdbch/react-devto) - Dev.to hooks for React.js
 * [react-localstorage](https://github.com/bdbch/react-localstorage) - Localstorage hooks with reactivity
 * [react-github](https://github.com/bdbch/react-github) - Github hooks for React.js
 * [Vivalidator](https://github.com/bdbch/vivalidator) - Simple PHP validation library with Recaptcha 2 support
 * [cordlr-cli (archived)](https://github.com/bdbch/cordlr-cli) - A Discord bot framework for bot developers (currently inactive)
-</details>
-
-<details>
- <summary>What tools I use</summary>
 
 ## 🎨 What tools I use
 * **Development**
@@ -45,10 +30,6 @@ Welcome to my GitHub profile. Here you'll find some of my open source projects a
   * Gmail
   * Chrome
   * Microsoft Edge
-</details>
-
-<details>
- <summary>What languages and libraries I work with</summary>
 
 ## 🕶 What languages and libraries I work with
 * **Javascript**
@@ -60,7 +41,6 @@ Welcome to my GitHub profile. Here you'll find some of my open source projects a
   * Node.js
 * **C#**
   * Unity
-</details>
   
 ## 📝 Contact
 
