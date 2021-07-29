@@ -1,5 +1,7 @@
 # Hey There! 🤘
 
+![bdbch stats](https://github-readme-stats.vercel.app/api?username=bdbch&count_private=true&show_icons=true&theme=dracula)
+
 Welcome to my GitHub profile. Here you'll find some of my open source projects and my contributions to other projects. I mostly use GitHub for my main job commits but open source contributions will also pop up here and there.
 
 ## 🔨 What I'm currently working on
