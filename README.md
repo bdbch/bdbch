@@ -25,13 +25,13 @@
   * Firefox
 
 ## 🗃️ Stack
-    * React
-    * Vue
-    * TailwindCSS
-    * GraphQL
-    * Node
-    * Express
-    * Laravel
+  * React
+  * Vue
+  * TailwindCSS
+  * GraphQL
+  * Node
+  * Express
+  * Laravel
   
 ## 📝 Contact
 
