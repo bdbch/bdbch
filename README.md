@@ -2,6 +2,14 @@
 
 ![bdbch stats](https://github-readme-stats.vercel.app/api?username=bdbch&count_private=true&show_icons=true&theme=dracula)
 
+## Languages
+```
+German:    🔴🔴🔴🔴🔴
+English:   🔴🔴🔴🔴⚫
+Japanese:  🔴⚫⚫⚫⚫
+French:    🔴⚫⚫⚫⚫
+```
+
 ## Things I built
 * [react-devto](https://github.com/bdbch/react-devto) - Dev.to hooks for React.js
 * [react-localstorage](https://github.com/bdbch/react-localstorage) - Localstorage hooks with reactivity
