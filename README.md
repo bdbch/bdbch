@@ -19,34 +19,12 @@ French:    🔴⚫⚫⚫⚫
 
 ## 🔨 Tools
   * VSCode
-  * Windows Terminal
-  * WSL2 (Windows Subsystem for Linux 2)
+  * Windows and MacOS
+  * WSL2
   * GitHub
-  * Vercel
-  * Netlify
   * Figma
   * Discord
-  * Slack
-  * Gmail
-  * Chrome
-  * Microsoft Edge
-  * Firefox
-
-## 🗃️ Stack
-  * React
-  * Vue
-  * TailwindCSS
-  * GraphQL
-  * Node
-  * Express
-  * Laravel
   
 ## 📝 Contact
 
 You can contact me on Twitter at [@idocodeandstuff](https://twitter.com/idocodeandstuff).
-
----
-
-**Thanks for checking me out! 🤙**
-
-![You're cool](https://media2.giphy.com/media/J1ABRhlfvQNwIOiAas/giphy.gif?cid=ecf05e475yspath7gic2tusipw8f8136pbtskus70mnnuc6a&rid=giphy.gif&ct=g)
