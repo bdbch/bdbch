@@ -1,14 +1,14 @@
 # Hey There! 🤘
 
-![bdbch stats](https://github-readme-stats.vercel.app/api?username=bdbch&count_private=true&show_icons=true&theme=dracula)
-
 ## Languages
 ```
 German:    🔴🔴🔴🔴🔴
 English:   🔴🔴🔴🔴🔴
 Japanese:  🔴⚫⚫⚫⚫
-French:    🔴⚫⚫⚫⚫
 ```
+
+## Things I'm currently building
+* [Tiptap](https://github.com/ueberdosis/tiptap) - Headless editor framework for the web built by [@ueberdosis](https://github.com/ueberdosis)
 
 ## Things I built
 * [react-devto](https://github.com/bdbch/react-devto) - Dev.to hooks for React.js
