@@ -9,12 +9,12 @@ Japanese:  🔴⚫⚫⚫⚫
 
 ## Things I'm currently building
 * [Tiptap](https://github.com/ueberdosis/tiptap) - Headless editor framework for the web built by [@ueberdosis](https://github.com/ueberdosis)
+* and many more non-public things :)
 
 ## Things I built
 * [react-devto](https://github.com/bdbch/react-devto) - Dev.to hooks for React.js
 * [react-localstorage](https://github.com/bdbch/react-localstorage) - Localstorage hooks with reactivity
 * [react-github](https://github.com/bdbch/react-github) - Github hooks for React.js
-* [Vivalidator](https://github.com/bdbch/vivalidator) - Simple PHP validation library with Recaptcha 2 support
 * [cordlr-cli (archived)](https://github.com/bdbch/cordlr-cli) - A Discord bot framework for bot developers (currently inactive)
 
 ## 🔨 Tools
