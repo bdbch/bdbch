@@ -1,12 +1,5 @@
 # Hey There! 🤘
 
-## Languages
-```
-German:    🔴🔴🔴🔴🔴
-English:   🔴🔴🔴🔴🔴
-Japanese:  🔴⚫⚫⚫⚫
-```
-
 ## Things I'm currently building
 * [Tiptap](https://github.com/ueberdosis/tiptap) - Headless editor framework for the web built by [@ueberdosis](https://github.com/ueberdosis)
 * and many more non-public things :)
