@@ -19,4 +19,4 @@
   
 ### Contact
 
-You can contact me on Twitter at [@bdbchdev](https://twitter.com/bdbchdev).
+I got rid of Twitter / X as it became more and more difficult to be seen or to actually use the application. Because of that I moved over to Bluesky - you can find me [here](https://bsky.app/profile/bdbch.bsky.social).
