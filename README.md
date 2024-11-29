@@ -12,6 +12,9 @@
 ### Currently working on / maintaining
 * **[Tiptap](https://github.com/ueberdosis/tiptap)** - Headless editor framework for the web built by [@ueberdosis](https://github.com/ueberdosis)
 
+### Favorite projects contributing to
+* **[Bluesky](https://github.com/bluesky-social/social-app)** - Open source social media platform
+
 ### Small things I built
 * **[react-devto](https://github.com/bdbch/react-devto)** - Dev.to hooks for React.js
 * **[react-localstorage](https://github.com/bdbch/react-localstorage)** - Localstorage hooks with reactivity
