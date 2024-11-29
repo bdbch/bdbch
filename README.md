@@ -1,13 +1,8 @@
 ### About
-* I'm a **Frontend Software Engineer** at Tiptap
-* I love **design & development** (I'm a certified media designer focused on digital design)
-* I'm most **productive** at **night**
-* I have a **phobia for failure** – means I'm always worried I do something wrong 😄
-
-### Stuff I like
-* Coding
-* Listening to music
-* Making music (like playing guitar at home)
+- 🔨 **Frontend Engineer**: I'm a frontend engineer working on a text editing framework called [Tiptap](https://github.com/ueberdosis/tiptap)
+- 🤓 **Nerd**: I love software, videogames, tabletop RPGs and game development
+- 🎸 **Music**: I play guitar and love to check out concerts
+- 📺 **Streamer**: Not linking my channel here but I stream very spontanously
 
 ### Currently working on / maintaining
 * **[Tiptap](https://github.com/ueberdosis/tiptap)** - Headless editor framework for the web built by [@ueberdosis](https://github.com/ueberdosis)
@@ -22,4 +17,5 @@
   
 ### Contact
 
-I got rid of Twitter / X as it became more and more difficult to be seen or to actually use the application. Because of that I moved over to Bluesky - you can find me [here](https://bsky.app/profile/bdbch.bsky.social).
+- [Bluesky](https://bsky.app/profile/bdbch.com)
+- [Website](https://bdbch.com/)
