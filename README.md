@@ -1,5 +1,6 @@
 ### About
 - 🔨 **Frontend Engineer**: I'm a frontend engineer working on a text editing framework called [Tiptap](https://github.com/ueberdosis/tiptap)
+- ♥️ **I love**: Typescript, can't work without it anymore
 - 🤓 **Nerd**: I love software, videogames, tabletop RPGs and game development
 - 🎸 **Music**: I play guitar and love to check out concerts
 
