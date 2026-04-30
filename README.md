@@ -1,4 +1,4 @@
-# IMPORTANT: I'll try to push my open source work (excluding Tiptap) over to Tangled - you can follow me over there [here](https://tangled.org/).
+# IMPORTANT: I'll try to push my open source work (excluding Tiptap) over to Tangled - you can follow me over there [here](https://tangled.org/bdbch.com).
 
 ### About
 - 🔨 **Frontend Engineer**: I'm a frontend engineer working on a text editing framework called [Tiptap](https://github.com/ueberdosis/tiptap)
