@@ -6,11 +6,10 @@
 
 ### Currently working on / maintaining
 * **[Tiptap](https://github.com/ueberdosis/tiptap)** - Headless editor framework for the web built by [@ueberdosis](https://github.com/ueberdosis)
+* **[Rivet](https://github.com/bdbch/rivet)** - A Rust based changelog and versioning manager for Monorepos
 
 ### Favorite projects contributing to
 * **[Bluesky](https://github.com/bluesky-social/social-app)** - Open source social media platform
-* **[Nimbus](https://github.com/nimbus-town/nimbus)** - A Bluesky client alternative
-* **[Tsky](https://github.com/tsky-dev/tsky)** - A universal Bluesky API client implementation
 
 ### Small things I built
 * **[react-devto](https://github.com/bdbch/react-devto)** - Dev.to hooks for React.js
