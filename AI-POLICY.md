@@ -2,6 +2,8 @@
 
 This is my personal policy around how I use AI tools and technologies. It will outline my principles and values around working with AI and set boundaries on how I interact with humans and AIs.
 
+**I'm not Anti-AI but I think it's important that everyone outlines their own principles and values around AI.**
+
 ## Principles
 
 ### Do's
@@ -59,6 +61,12 @@ I also don't believe in the _"I don't read code anymore"_ mentality that some pe
 Some people even bring up that Linus Torvald now is pro AI even on Linux kernel development but I don't think they get Linux actual point. Linux is a very experienced developer so a tool like AI is something that he can perfectly use to his advantage. He also repeatedly said that AI should be used as **a tool to help humans** and not to generate vibe coded AI slop for humans to blindly accept because the result looks correct.
 
 Because I value my job, the profession I picked and I still believe being the one controlling my codebase is the right choice, I won't use AI anymore to generate whole features or products for me but I will use it more as a tool to do specific things when I need them.
+
+**This may sound like I will be slower on purpose** but I think that
+
+1. It won't be necessarily slower considering that I still use AI in a more granular way to help me with specific tasks
+2. The value of still learning, becoming better and being the one in control of my codebase and
+3. The value of still enjoying my job and work is more important than just being faster and having more output.
 
 ### AI in Open Source
 
