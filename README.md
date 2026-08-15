@@ -9,7 +9,7 @@
 
 - **[Tiptap](https://github.com/ueberdosis/tiptap)** - Headless editor framework for the web built by [@ueberdosis](https://github.com/ueberdosis)
 - **[Rivet](https://github.com/bdbch/rivet)** - A Rust based changelog and versioning manager for Monorepos
-- **[Inkwell](https://tangled.sh/bdbch.com/inkwell)** - Headless markdown editor that just feels like writing in a rich text editor
+- **[inksane](https://github.com/bdbch/inksane)** - Headless markdown editor that just feels like writing in a rich text editor
 
 ### Favorite projects contributing to
 
