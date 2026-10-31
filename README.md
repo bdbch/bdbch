@@ -22,10 +22,6 @@
 - **[react-localstorage](https://github.com/bdbch/react-localstorage)** - Localstorage hooks with reactivity
 - **[react-github](https://github.com/bdbch/react-github)** - Github hooks for React.js
 
-### AI Policy
-
-Please read my [AI policy](./AI-POLICY.md). It is something I take seriously and measure myself against. It outlines how I use AI tools and technologies, my principles and values around working with AI and sets boundaries on how I interact with humans and AIs.
-
 ### Contact
 
 - [Bluesky](https://bsky.app/profile/bdbch.com)
